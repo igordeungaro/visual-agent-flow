@@ -107,3 +107,12 @@ We welcome contributions from developers of all levels. If you'd like to contrib
 ## ❤️ Contributors
 
 [![langflow contributors](https://contrib.rocks/image?repo=langflow-ai/langflow)](https://github.com/langflow-ai/langflow/graphs/contributors)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [langflow-ai/langflow](https://github.com/langflow-ai/langflow), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/langflow-ai/langflow
